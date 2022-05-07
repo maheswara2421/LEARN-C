@@ -1,0 +1,15 @@
+void printline()
+{
+   int i;
+	for(i=0;i<=10;i++)
+		printf("-");
+	printf("\n");
+}
+void main()
+{
+clrscr();
+printline();
+printf("Pavan kumar\n");
+printline();
+getch();
+}
